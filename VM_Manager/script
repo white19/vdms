@@ -1,0 +1,7 @@
+echo  "cd /mnt/storage/
+mkdir $MachineName
+cp $size $MachineName/disk.img<<這會有點久
+echo"請稍候"
+echo"OK"
+virt-clone -o test_for_dorm -n $MachineName --preserve-data -f /mnt/storage/$MachineName/disk.img"
+>test.php
