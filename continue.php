@@ -15,20 +15,20 @@
 			</div>
 			<ul id="navigation">
 				<li class="selected">
-					<a href="index.html">Home</a>
+					<a href="/index.html">Home</a>
 				</li>
 				<li>
-					<a href="about.html">About</a>
+					<a href="/about.html">About</a>
 				</li>
 				<li>
-					<a href="vm.php">VM</a>
+					<a href="/vm.php">VM</a>
 				</li>
 				<li>
-					<a href="ovs.php">Virtual switch</a>
+					<a href="/ovs.php">Virtual switch</a>
 				</li>
 				
 				<li>
-					<a href="contact.html">Login/out</a>
+					<a href="/clear_session.php">Login/out</a>
 				</li>
 			</ul>
 		</div>
